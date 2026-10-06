@@ -1,0 +1,70 @@
+---
+title: "WritingExercise04"
+---
+
+# Instructions
+
+In this writing exercise, you will be trying to improve the provided writing sample using a structured approach.
+
+## Step 1: Edit to improve paragraph structure
+
+- Make the paragraph the unit of composition
+- Edit for logical flow
+- Consider whether each paragraph has a clear purpose, whether paragraphs should be split or combined, and whether the paragraphs flow together in a logical progression of ideas
+
+## Step 2: Edit for sentence structure and word choice
+
+- Edit for clarity, precision of language, and composition (following, for example, Strunk & White's Principles of Composition, or using another style guide that you prefer)
+
+Do not simply shorten the text (though you should, as always "omit needless words".) Your revised version should retain all important scientific information. 
+
+You may add relevant scientific information (evidence to support your arguments) where you feel it would improve clarity, accuracy, or logical flow.
+
+After each step of your editing process, use the "commit" process to save your changes. 
+
+# Writing Sample to Edit
+
+Introduction
+
+In this article, we will examine three microbes that play important roles in industrial biotechnology. 
+Humans have an epic relationship with microbes. 
+From birth, we are colonized by microbes, and over the course of our lives, we associate with microbes (as part of our microbiome and in the external environment) that have profound impacts on our health and well-being. 
+This includes positive effects (microbes that promote immune system development, aid in digestion, protect against incoming pathogens), to negative ones (microbes involved in food spoilage, and human pathogens that cause diseases that range from mild colds and self-limiting infections to life-threatening illnesses). 
+In more recent years, however, microbes have been intentionally exploited by humans, beginning from the early domestication of certain species to aid in food fermentation, to the current day, where cutting-edge technologies harness the power of microbes for industrial biotechnology. 
+
+
+Corynebacterium glutamicum
+
+Corynebacterium glutamicum (C.g.) is used for production of amino acids (AAs) and other small molecules by industrial fermentation (IF). 
+Other corynebacterial species have been also used for IF, including the use of C. acetylobutylicum for production of solvents via ABE fermentation. Clostridia are generally obligate anaerobes and thus, these IFs must be carried out under anoxic (AnO) conditions.
+Characterisation of the central metabolic pathways and optimizing the growth and titer of the desired products is therefore key to the use of C.g. in various IFs. 
+Deleting or overexpressing genes involved in these pathways, or engaging in rational design of the growth medium used for IF, or otherwise optimising growth conditions for the IF, are all potential strategies that could be used to improve the titre of known C.g. products, but also to expand the suite of products produced by C.g. by IF. 
+However, there are notable constraints on such strategies: for example, cost optimization of the IF growth medium, or consumer acceptance of GMO products. 
+Given that one of the attractive features of C.g. as an industrial workhorse is its ability to grow using inexpensive carbon sources such as molasses, and the growing pressure to adapt IFs to the circular economy, any medium-optimization strategies should avoid the use of costly synthetic media. 
+
+
+Saccharomyces cerevisiae and other yeasts
+
+While some strains of Saccharomyces cerevisiae are well-adapted to use in the brewing and bread-making industries, there is a wide diversity of different strains, each with their own metabolic capabilities and distinct properties, some of which are useful for different purposes. 
+S. cerevisiae has a well-characterised genome, and a number of well-annotated genome sequences are available for this organism. 
+This wealth of genetic information, combined with the practical tools available for working with haploid and diploid yeasts, have enabled researchers to identify many genetic loci associated with phenotypic traits that have value for industrial biotechnology purposes, using approaches such as genetic mapping, genome-wide association studies (GWAS), and comparative genomics. 
+This knowledge can be further leveraged for the purposes of strain improvement, and will likely lead to the construction of a vast collection of strains with a range of desirable characteristics. 
+It also seems likely that further, deeper understanding of the genetic diversity of S. cerevisiae strains (through further strain collection and genome sequencing approaches), will likely aid in the efforts to manipulate strains for industrial purposes and create such a collection of useful strains. 
+
+
+Although Saccharomyces cerevisiae is perhaps the best-known of the yeasts that are used in food fermentation and for other industrial biotechnology approaches, and fundamental work carried out using S. cerevisiae as a model system has led to break-through discoveries meriting a large number of Nobel Prizes, a number of other yeasts are also important for biotechnology. 
+It should not be forgotten that Komagataella phaffii, formerly known as Pichia pastoris, is widely used for protein expression because it combines the ability to perform eukaryotic post-translational modifications on recombinant protein, with the ability to grow on low-cost feedstocks such as methanol. 
+Other important yeasts include Yarrowia lipolytica and Kluyveromyces lactis, but non-yeast fungi are important too. 
+For example, Aspergillus niger is used to produce citric acid, and of course, Penicillium species such as P. rubens and P. chrysogenum produce penicillin, one of the first antibiotics. 
+It should be noted also that the precise genetic makeup of the strain being used can be incredibly relevant for the selection of a yeast or fungal strain for a particular purpose.
+For example, some interesting recent work has demonstrated that the yeast strains used for brewing lagers (S. pastorianus) originated from a hybridization event between S. cerevisiae and S. bayanus yeasts, and the genomes of the S. pastorianus isolates show hallmarks of traits (e.g., cold-tolerance) associated with phenotypes desirable for brewing lagers.
+Further work by master brewers, yeast geneticists, and industrial biotechnologists will doubtless result in the production of many more strains with valuable and distinct properties. 
+
+
+Escherichia coli
+
+Jacques Monod famously wrote of E. coli, "What is true for E. coli is true for the elephant" (He shared the Nobel Prize in 1965 with Jacob and Lwoff, for their work which unveiled mechanisms for gene regulation, a field which remains a fruitful area of study today). 
+Although there are many things that are true for E. coli that are not true for elephants, for example, the fact that E. coli can use flagellar motility and chemotaxis to avoid toxic compounds or move towards chemoattractants (Ser, Asp, ribose, galactose, dipeptides, O2, and pyrimidines). 
+However, it remains indisputable that E. coli has been an important and influential model organism, essential to a number of breakthrough discoveries, and that it remains important as an industrial biotechnology workhorse (for example, for cloning, protein expression, and even for use as a probiotic - e.g., E. coli Nissle strains). 
+After all, it is impossible to grow an elephant inside an industrial bioreactor, even though some bioreactors are very large indeed; and even if you could grow an elephant in such a bioreactor, it remains impractical (and ethically questionable) as to whether you could genetically modify the elephant for recombinant protein impression or to improve its characteristics as a production host ("chassis") organism useful for IB purposes. 
+

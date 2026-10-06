@@ -1,0 +1,55 @@
+---
+title: "WritingExercise01"
+---
+
+# Instructions
+
+For this exercise, you are provided with three writing samples (each intended to be the first paragraph from a scientific paper). Read each sample critically. As you read, consider the following questions:
+
+1. Is it well-written? Why/why not? 
+
+2. How can the writing be improved? (This should be in general terms, not necessarily a line-by-line edit.)
+
+## Writing sample 1
+
+Heterologous rProtein titres in E. coli are coupled to promoter/RBS architecture, ORF GC content, codon adaptation index (CAI), plasmid copy number, and T7 RNAP loading. 
+IPTG-dependent lacUV5 induction of T7 RNAP can impose substantial transcriptional and translational burden, perturbing Sec-dependent export, DnaK/DnaJ/GrpE-mediated proteostasis and GroEL/ES-assisted folding. 
+Periplasmic accumulation additionally engages DsbA/DsbC-dependent oxidative folding and disulfide isomerisation, whereas cytoplasmic expression can disfavour oxidative folding and favour inclusion-body formation.
+
+
+Recombinant product recovery following biomass accumulation involves cell disruption, clarification and chromatographic capture, with IMAC, AEX, CEX, HIC and SEC providing orthogonal separation of rProtein from HCP, gDNA, endotoxin and aggregated species.
+Product-related impurities include clipped species, mispaired disulfides and oligomeric variants, requiring analytical characterisation by SDS-PAGE, SEC-MALS, RP-HPLC and LC-MS.
+
+
+Mammalian expression introduces ER translocation, calnexin/calreticulin cycling, PDI-mediated disulfide isomerisation and COPII-dependent trafficking, followed by Golgi-localised N-glycan processing through MGAT1, MGAT2, B4GALT1 and FUT8. 
+Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
+Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
+
+
+## Writing sample 2
+
+Fermentation can be used to produce a vast range of useful products, with varying applications. 
+Many fermentation products are recombinant proteins, and interestingly, some of these proteins are enzymes that carry out particularly useful reactions and can be used for a variety of different purposes. 
+Scientists over the past several decades have performed a number of studies that help to elucidate how recombinant proteins can best be produced for this wide range of applications. 
+This has included looking at factors such as the amount of protein produced, how pure the final product is, or how active it is. 
+Different approaches can be used for different proteins and in different situations. In industrial biotechnology, considerable effort has been made to build a vast knowledgebase of information that scientists can leverage to choose the best host organism to produce their particular recombinant protein product. 
+
+
+There are a number of multifaceted factors that can influence the production of recombinant proteins, and these may vary considerably depending on the specific protein, the chosen production system, and the intended application of the recombinant product. 
+It is therefore important to take a holistic approach when considering the different factors that may impact the overall production process and to ensure that these are appropriately taken into account during system development. 
+By doing so, it is possible to optimise the production process while also ensuring that the resulting product is aligned with the requirements of its intended application, including any relevant consideration of regulatory, legal, or other considerations associated with the intended product or application. 
+Consideration of the different approaches available can therefore play an important role in enabling informed decision-making by the discerning industrial biotechnologist, allowing them to identify the most suitable strategy for achieving the desired production outcomes across a range of different applications and production contexts.
+
+
+## Writing sample 3
+
+Modern life has been transformed by our ability to produce recombinant proteins at the industrial scale - for applications ranging from diagnostics and therapeutics (e.g., the production of antibodies, and recombinant growth factors) to the production of enzymes for a range of purposes spanning manufacturing, food, and research. 
+When selecting an approach for the recombinant production of a new protein product, yield, purity, and activity are all factors that must be considered. 
+High yields can typically be achieved by using synthetic biology techniques (e.g., to optimise expression of the product itself, or to modify the production organism to improve its characteristics), or by scaling up production. 
+High purity can typically be achieved by affinity purification or other chromatographic methods. 
+However, ensuring that the product is produced and purified in its active form requires more detailed consideration. 
+Some products (e.g., insulin, monoclonal antibodies) require disulfide bond formation to achieve their correctly folded, active form. 
+Others (e.g., monoclonal antibodies, erythropoietin) must be correctly glycosylated. 
+Therefore, selection of an expression host system that is able to produce a given product with the post-translational modifications necessary for that product's activity is essential. 
+
+

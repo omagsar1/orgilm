@@ -1,0 +1,40 @@
+---
+title: "WritingExercise03"
+---
+
+# Instructions
+
+In this writing exercise, you will be trying to improve the provided writing sample for logical flow and paragraph structure. Keep in mind Strunk & White's Principles of Composition (particularly, "Make the paragraph the unit of composition") and the suggested structure for explaining scientific experiments (aim-method-result-significance).
+
+Remember that you should use the "commit" process to save your changes. 
+
+# Writing Sample to Edit
+
+Streptomyces are Gram-positive bacteria commonly isolated from soil, marine sediments, or from symbiotic associations with invertebrates such as leaf-cutter ants or beewolves.
+Studies conducted over the past few decades have shown that Streptomyces bacteria naturally produce a wide range of so-called "secondary metabolites" (or natural products), which often have valuable properties (e.g., anti-cancer, anti-fungal, anti-bacterial properties), which has contributed to considerable interest and continued research focus on these organisms and the compounds that they produce.  
+Streptomyces have large, complex genomes with a high-GC content and an unusual structure (linear chromosomes that are typically 8-10 Mbp in length, relatively large for bacterial genomes and possessing telomeres on each end; and also, they often contain one or more linear plasmids). 
+Classic examples of the production of antibiotics by such Streptomyces include the production of Streptomycin by Streptomyces griseus, the production of chloramphenicol by Streptomyces venezuelae, and the production of neomycin by Streptomyces fradiae. 
+Notably, relatives of Streptomyces, Actinomyces, can also be used to produce valuable compounds, such as the production of chlortetracycline by Kitasatospora aureofaciens (although also notably, K. aureofaciens had previously been classified as a Streptomyces). 
+Other organisms from the Actinomycetota related to Streptomyces that produce antibiotics include Saccharopolyspora erythraea (erythromycin), Micromonospora purpurea (which produces gentamycin), and Amycolatopsis orientalis (the original source of vancomycin, first isolated in 1953). 
+Generally, the genes required for the synthesis of a particular compound are grouped together (syntenic) on the chromosome, and the set of genes together is termed a biosynthetic gene cluster (BGC).
+
+
+Analysis of the sequenced genomes of Streptomyces species, beginning with the first-sequenced streptomycete (Streptomyces coelicolor A3(2) in 2002), has shown that most strains have the capability to produce 20-30 different natural products. 
+However, most strains produce only a small number of antibiotics when grown in laboratory culture, raising the following questions: 
+1) what are the ecological role(s) of these antibiotics, 
+2) under what conditions do Streptomyces produce the cryptic metabolites that are not produced in normal lab culture, 
+3) can Streptomyces be induced to produce these cryptic metabolites, and might some of them be useful as clinically useful antibiotics, and 
+4) how widely transferred these antibiotic biosynthesis gene clusters are amongst different strains of Streptomyces. 
+
+
+Identifying novel antibiotics is one of many tools that must be employed in order to combat the rising problem of antimicrobial resistance (AMR), sometimes referred to as the AMR crisis. 
+Currently, over one million deaths per year can be directly attributed to AMR, with nearly 5 million more deaths that involve AMR as a contributing factor. 
+The emergence of multidrug-resistant (MDR) organisms thus threatens the United Nations Sustainable Development Goal (UN SDG) 3, particularly in respect to the specific targets that relate to reducing deaths caused by communicable diseases, and those that relate to the development of new medicines.
+
+
+Previous work has shown that treatment with small molecules including siderophores and gamma-butyrolactones, and genetic manipulations including overexpression of global regulators or pathway-specific activators, and genetic engineering of the host strain transcriptional/translational machinery (e.g., introduction of the so-called "Ochi mutations" in rpsL and rpoB), can activate expression of previously cryptic gene clusters in Streptomyces species. 
+In this work, we will test whether addition of NAG is able to induce the production of novel antibiotics in a newly isolated species of Streptomyces (S. strathclydensis). 
+These Strathclydamycins do not match any known antibiotic structures, suggesting that these are novel compounds and that future work should investigate whether key pathogens (ESKAPE pathogens) can easily evolve resistance to them. 
+Using a combination of bioassay-guided fractionation and chemical characterization methods, we observed the production of three novel compounds, Strathclydamycins A-C. 
+This was done by treating cultures grown in liquid minimal medium (MM) with 0.5 mM NAG, and observing the production of a trio of bioactive compounds, which were not produced in MM-NAG, and which then had their structures solved by NMR (after they were isolated using preparative HPLC).  
+

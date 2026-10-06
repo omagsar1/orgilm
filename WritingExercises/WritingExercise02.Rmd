@@ -1,0 +1,44 @@
+---
+title: "WritingExercise02"
+---
+
+# Instructions
+
+Each of the writing samples below violates at least one of Strunk and White’s Principles of Composition. Read the samples critically, and edit to improve them. Remember to make a commit to save your changes when you are done. 
+
+# Writing Samples
+
+## Principle: use the active voice
+
+An analysis was performed by scientists to understand the metabolic pathways in bacteria.
+
+## Put statements in positive form.
+
+Bacteria that do not fail to metabolize glucose are important for fermentation.
+
+## Use definite, specific, concrete language.
+
+Some studies indicate that algae can be useful in biofuel production.
+
+## Omit needless words.
+
+Numerous scientific investigations have demonstrated that the metabolic pathways of *Aspergillus niger* can be engineered to enhance the production of citric acid, which is a key ingredient in various industrial applications.
+
+## Express coordinate ideas in similar form.
+
+Microbes are used to produce a range of fermented foods: yeast to produce bread and alcoholic products including beer, wine, and sake; bacillus and natto; cheese, fermented vegetables, and pickles made by lactic acid bacteria; fermentation is even important for production of coffee and chocolate. 
+
+## Keep related words together.
+
+Microbes that are able, under certain specific environmental conditions and following appropriate pre-treatment of the substrate, to degrade plastics such as polyethylene (PET) using specific enzymes (e.g., PETase) include bacteria such as *Ideonella sakaiensis*. 
+
+## In summaries, keep to one tense.
+
+The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours. 
+During this period, the glucose concentration decreased steadily, while the optical density increases from 0.2 to 8.4. At the end of the fermentation, the culture is harvested by centrifugation and the recombinant enzyme purified using affinity chromatography. 
+The purified enzyme showed a specific activity of 42 U/mg and is suitable for use in the subsequent biocatalytic process.
+
+## Place the emphatic words of a sentence at the end.
+
+Streptomyces produce antibiotics, and genomic data suggests that any given species can potentially produce a wide variety of them. 
+
